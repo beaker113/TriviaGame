@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/25/90/cjwLyN.jpg");
+    }
+header {
+    background-color: purple;
+    text-align: center;
+    margin-right: 125px;
+    margin-left: 125px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+
+}
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+.container {
+    background-color: greenyellow;
+    z-index: 1000;
+    align-content: center;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+};
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
